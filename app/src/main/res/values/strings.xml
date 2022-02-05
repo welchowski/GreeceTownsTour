@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">lab5</string>
+    <string-array name="towns">
+        <item>Афіни</item>
+        <item>Делфі</item>
+        <item>Олімпія</item>
+        <item>Скирос</item>
+        <item>Занкіф</item>
+    </string-array>
+</resources>
